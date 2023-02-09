@@ -13,7 +13,7 @@ div.contact-list {
   margin: 60px auto;
   flex-direction: column;
   justify-content: center;
-  padding: 44px 36px 36px;
+  padding: 44px 36px 57px;
   border-radius: 5px;
   z-index: 20000;
   background-image: url("./../../assets/images/mobile-border.png");
@@ -47,8 +47,9 @@ div.contact-list {
   align-items: center;
 }
 
-.checkboxes input {
+.checkboxes input[type="checkbox"] {
   transform: scale(1.5);
+  accent-color: #01174c;
 }
 
 .elCheck label {
