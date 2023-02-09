@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/contact-app/static/css/main.277293f0.css",
+    "main.css": "/contact-app/static/css/main.16d15288.css",
     "main.js": "/contact-app/static/js/main.655f6ad2.js",
     "static/js/787.c45cc61a.chunk.js": "/contact-app/static/js/787.c45cc61a.chunk.js",
     "static/media/mobile-border.png": "/contact-app/static/media/mobile-border.8f000dd7628414ae322a.png",
@@ -11,12 +11,12 @@
     "static/media/female.png": "/contact-app/static/media/female.67286341a93a3049f04e.png",
     "static/media/unknown.png": "/contact-app/static/media/unknown.fa83152ae5a6daf6a7a4.png",
     "index.html": "/contact-app/index.html",
-    "main.277293f0.css.map": "/contact-app/static/css/main.277293f0.css.map",
+    "main.16d15288.css.map": "/contact-app/static/css/main.16d15288.css.map",
     "main.655f6ad2.js.map": "/contact-app/static/js/main.655f6ad2.js.map",
     "787.c45cc61a.chunk.js.map": "/contact-app/static/js/787.c45cc61a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.277293f0.css",
+    "static/css/main.16d15288.css",
     "static/js/main.655f6ad2.js"
   ]
 }
