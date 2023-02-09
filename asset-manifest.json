@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.30740449.css",
-    "main.js": "/static/js/main.89b6e025.js",
-    "static/js/787.c45cc61a.chunk.js": "/static/js/787.c45cc61a.chunk.js",
-    "static/media/mobile-border.png": "/static/media/mobile-border.8f000dd7628414ae322a.png",
-    "static/media/anonymous-avatar.png": "/static/media/anonymous-avatar.dda74e389e88d3844697.png",
-    "static/media/female-avatar.png": "/static/media/female-avatar.b0f065589e8a470b1a31.png",
-    "static/media/male-avatar.png": "/static/media/male-avatar.cf508f5c3858b458f986.png",
-    "static/media/male.png": "/static/media/male.d8fac4f1d2d4de0b34a9.png",
-    "static/media/female.png": "/static/media/female.67286341a93a3049f04e.png",
-    "static/media/unknown.png": "/static/media/unknown.fa83152ae5a6daf6a7a4.png",
-    "index.html": "/index.html",
-    "main.30740449.css.map": "/static/css/main.30740449.css.map",
-    "main.89b6e025.js.map": "/static/js/main.89b6e025.js.map",
-    "787.c45cc61a.chunk.js.map": "/static/js/787.c45cc61a.chunk.js.map"
+    "main.css": "/contact-app/static/css/main.277293f0.css",
+    "main.js": "/contact-app/static/js/main.655f6ad2.js",
+    "static/js/787.c45cc61a.chunk.js": "/contact-app/static/js/787.c45cc61a.chunk.js",
+    "static/media/mobile-border.png": "/contact-app/static/media/mobile-border.8f000dd7628414ae322a.png",
+    "static/media/anonymous-avatar.png": "/contact-app/static/media/anonymous-avatar.dda74e389e88d3844697.png",
+    "static/media/female-avatar.png": "/contact-app/static/media/female-avatar.b0f065589e8a470b1a31.png",
+    "static/media/male-avatar.png": "/contact-app/static/media/male-avatar.cf508f5c3858b458f986.png",
+    "static/media/male.png": "/contact-app/static/media/male.d8fac4f1d2d4de0b34a9.png",
+    "static/media/female.png": "/contact-app/static/media/female.67286341a93a3049f04e.png",
+    "static/media/unknown.png": "/contact-app/static/media/unknown.fa83152ae5a6daf6a7a4.png",
+    "index.html": "/contact-app/index.html",
+    "main.277293f0.css.map": "/contact-app/static/css/main.277293f0.css.map",
+    "main.655f6ad2.js.map": "/contact-app/static/js/main.655f6ad2.js.map",
+    "787.c45cc61a.chunk.js.map": "/contact-app/static/js/787.c45cc61a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30740449.css",
-    "static/js/main.89b6e025.js"
+    "static/css/main.277293f0.css",
+    "static/js/main.655f6ad2.js"
   ]
 }
