@@ -1,5 +1,6 @@
 {
   "name": "contacts-app",
+  "homepage": "https://nadjon4ik.github.io/contact-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
