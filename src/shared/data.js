@@ -36,6 +36,18 @@ const CONTACTS_DATA = [
     phone: "+380956319521",
     gender: "male",
   },
+  {
+    firstName: "Віталік",
+    lastName: "Джонсон",
+    phone: "+380957318521",
+    gender: "male",
+  },
+  {
+    firstName: "Олександра",
+    lastName: "Джонсон",
+    phone: "+380937314561",
+    gender: "female",
+  },
 ];
 
 export async function getContactsData(searchTerm = "", gender = ALL_GENDERS) {

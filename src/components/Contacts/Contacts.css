@@ -7,7 +7,7 @@
 }
 
 div.contact-list {
-  height: 684px;
+  height: auto;
   max-width: fit-content;
   min-width: 350px;
   margin: 60px auto;
@@ -19,13 +19,43 @@ div.contact-list {
   background-image: url("./../../assets/images/mobile-border.png");
   background-repeat: no-repeat;
   background-size: 251%;
-  background-position: 48%
+  background-position: 48.2%
 }
 
+.wrapper {
+  height: 684px;
+  overflow: auto;
+}
+
+#style-3::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar {
+  width: 6px;
+  background-color: #F5F5F5;
+}
+
+#style-3::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}
+
+
+.scrollbar {
+  display: flex;
+  justify-content: center;
+  margin: 15px auto 0px;
+  float: left;
+  height: 661px;
+  overflow-y: scroll;
+  width: -webkit-fill-available;
+}
+
+
 .header {
-  padding-top: 10px;
   text-align: center;
-  margin: 0px 0px 10px;
+  margin: 10px 0px;
 }
 
 .search-box {
