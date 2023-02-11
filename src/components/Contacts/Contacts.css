@@ -27,7 +27,7 @@ div.contact-list {
   overflow: auto;
   z-index: 1;
   overflow-x: hidden;
-  height: 640px;
+  height: 634px;
   float: left;
   overflow-y: scroll
 }
@@ -39,10 +39,10 @@ div.contact-list {
 }
 
 .fixed {
-  width: 75%;
+  width: 75.4%;
   position: absolute;
   left: 9%;
-  padding-left: 11px;
+  padding: 0px 12px;
   background: white;
   z-index: 4000;
 }
