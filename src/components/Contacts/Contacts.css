@@ -7,28 +7,44 @@
 }
 
 div.contact-list {
-  height: auto;
+  position: relative;
+  height: 654px;
   max-width: fit-content;
   min-width: 350px;
   margin: 60px auto;
-  flex-direction: column;
-  justify-content: center;
-  padding: 44px 36px 57px;
-  border-radius: 5px;
-  z-index: 20000;
+  padding: 54px 36px 57px 27px;
   background-image: url("./../../assets/images/mobile-border.png");
   background-repeat: no-repeat;
   background-size: 251%;
-  background-position: 48.2%
+  background-position: 48.2%;
 }
 
+
 .wrapper {
+  position: relative;
   height: 684px;
+  top: 16px;
   overflow: auto;
+  z-index: 1;
+  overflow-x: hidden;
+  height: 640px;
+  float: left;
+  overflow-y: scroll
 }
 
 .force-overflow {
+  position: relative;
   width: 352px;
+  z-index: 0;
+}
+
+.fixed {
+  width: 75%;
+  position: absolute;
+  left: 9%;
+  padding-left: 11px;
+  background: white;
+  z-index: 4000;
 }
 
 #style-3::-webkit-scrollbar-track {
@@ -47,13 +63,13 @@ div.contact-list {
 
 
 .scrollbar {
+  position: relative;
   display: flex;
+  flex-direction: column;
   justify-content: center;
-  margin: 15px auto 0px;
-  float: left;
-  height: 661px;
-  overflow-y: scroll;
+  margin: 132px 0px 0px 8px;
   width: 100%;
+  padding-left: 18px;
 }
 
 
